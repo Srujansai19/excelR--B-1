@@ -9,7 +9,7 @@ public class demo007 {
         int b = sc.nextInt();
         System.out.println("Enter your Phone number:  ");
         Long c = sc.nextLong();
-
+        //Printing Name, Age and Phone number
         System.out.println("Your name is: "+a);
         System.out.println("Your age is: "+b);
         System.out.println("Your Phone number is: "+c);
