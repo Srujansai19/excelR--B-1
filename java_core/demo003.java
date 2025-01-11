@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class demo003 {
     public static void main(String[] args) {
-        //greatest of 2 numbers
+        //Greatest of 2 numbers
         
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of First number: ");
