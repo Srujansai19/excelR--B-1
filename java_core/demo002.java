@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class demo002 {
     public static void main(String[] args) {
+        //greatest number of 3
         
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of First number: ");
