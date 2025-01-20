@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class demo016 {
     public static void main(String[] args) {
+        //string reverser
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter the String: ");
             String str = sc.nextLine();
