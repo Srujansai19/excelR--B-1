@@ -18,7 +18,7 @@ class Fibonnaci {
         }
     }
 }
-
+//Fibonnaci series 20
 public class demo020 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
