@@ -4,7 +4,7 @@ public class demo014 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number: ");
         int x = sc.nextInt();
-
+//unary operators
         
                 System.out.println("X: "+x);
         
