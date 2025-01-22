@@ -1,6 +1,8 @@
 
 class Solution {
     public boolean isPalindrome(int x) {
+        //palindrome of integers
+
         
             if(x==0){
                 return true;
