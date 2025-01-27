@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class demo002 {
+public class Demo002 {
     public static void main(String[] args) {
         //greatest number of 3
         
