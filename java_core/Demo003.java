@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class demo003 {
+public class Demo003 {
     public static void main(String[] args) {
         //Greatest of 2 numbers
         
