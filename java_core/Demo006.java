@@ -1,5 +1,5 @@
 
-class demo006 {
+class Demo006 {
     public static void main(String[] args) {
 
         String Username = "Srujan";
