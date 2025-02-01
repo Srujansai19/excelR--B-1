@@ -26,7 +26,7 @@ class Friend {
     }
 }
 
-public class demo029 {
+public class Demo029 {
     public static void main(String[] args) {
         Friend[] friends = new Friend[10];
 
