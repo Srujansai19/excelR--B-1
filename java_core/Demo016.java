@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class demo016 {
+class Demo016 {
     public static void main(String[] args) {
         //string reverser
         try (Scanner sc = new Scanner(System.in)) {
