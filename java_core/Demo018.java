@@ -7,7 +7,7 @@ class MinToYear{
         System.out.println("Years: "+y);
     }
 }
-public class demo018 {
+public class Demo018 {
     //Minutes to years conversion
     public static void main(String[] args) {
         MinToYear m = new MinToYear();
