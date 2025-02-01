@@ -1,4 +1,4 @@
-public class demo015 {
+public class Demo015 {
     public static void main(String[] args) {
         //swapping of elements
         int x = 10;
