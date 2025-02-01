@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class demo017 {
+public class Demo017 {
     public static int addDigits(int number) {
         int sum = 0;
         while (number != 0) {
