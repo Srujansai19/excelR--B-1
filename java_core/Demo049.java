@@ -1,4 +1,4 @@
-public class demo049 {
+public class Demo049 {
     void reverse(int x){
         int reverse =  0;
 
