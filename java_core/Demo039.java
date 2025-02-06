@@ -6,6 +6,7 @@ public class Demo039 {
         
         System.out.print("Enter a character: ");
         char input = sc.next().charAt(0);
+        
 
         if (Character.isUpperCase(input)) {
             System.out.println(input + " is an uppercase letter.");
