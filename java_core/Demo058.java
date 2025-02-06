@@ -1,3 +1,4 @@
+
 public class Demo058 {
     public static void main(String[] args) {
         int x = 14;
