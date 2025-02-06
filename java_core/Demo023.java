@@ -10,6 +10,7 @@ public class Demo023 {
             reversed = reversed * 10 + digit;
             x = x/10;
         }
+        
         return (original==reversed) ? 1 : 0;
     }
     public static void main(String[] args) {
