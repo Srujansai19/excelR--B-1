@@ -8,7 +8,6 @@ public class Demo032 {
         h.add("Hello");
         h.add("world");
         System.out.println(h);
-
         try (Scanner sc = new Scanner(System.in)) {
             while(true){
                 System.out.println("Enter a word");
