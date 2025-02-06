@@ -6,7 +6,7 @@ public class Demo017 {
             sum += number % 10; 
             number = number / 10; 
         }
-        
+    
         return sum;
     }
     //sum of digits of a number
