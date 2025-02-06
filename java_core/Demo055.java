@@ -10,6 +10,7 @@ public class Demo055 {
         System.out.println("Sum of square of digits in "+x+" is: "+sum);
     }
 
+    
     public static void main(String[] args) {
         int x = 28;
         squareSum(x);
