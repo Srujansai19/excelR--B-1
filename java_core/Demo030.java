@@ -18,7 +18,6 @@ System.out.println("Elements of the list: ");
 	}
 	    
 }
-
 }
 public class Demo030{
 
