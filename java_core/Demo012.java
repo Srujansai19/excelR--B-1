@@ -9,5 +9,5 @@ class Demo012{
         double area = (r*r*3.14);
 
         System.out.println("Area of circle is: "+ area);
-}
+    }
 }
