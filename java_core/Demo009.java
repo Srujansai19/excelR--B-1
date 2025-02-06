@@ -15,6 +15,7 @@ public class Demo009 {
         System.out.println("Hello "+Cust_Name);
         System.out.println("ur balance is "+ Balance);
     }
+    
     public static void main(String[] args){
         Demo009 obj = new Demo009();
         obj.accept_details();
