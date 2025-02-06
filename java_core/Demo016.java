@@ -6,7 +6,7 @@ class Demo016 {
             System.out.println("Enter the String: ");
             String str = sc.nextLine();
 
-                    
+                
                     String reversed = new StringBuilder(str).reverse().toString();
             
                     if (str.equals(reversed)) {
