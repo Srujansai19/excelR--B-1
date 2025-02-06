@@ -5,6 +5,7 @@ class TaxOnIncome {
     int PF;
     int salary;
 
+    
     public void calculateTax() {
         int deductions = HRA + PF;
         int TaxableIncome = salary - deductions;
