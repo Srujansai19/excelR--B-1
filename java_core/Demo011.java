@@ -5,6 +5,7 @@ class Parent{
         System.out.println("parents name is "+ Name);
     }
 }
+
 class Child extends Parent{
     String Son = "Jean Marie";
     
