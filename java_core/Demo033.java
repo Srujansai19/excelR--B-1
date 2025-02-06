@@ -9,7 +9,6 @@ class LinkedHashSetDemo{
         lhs.add(80);
         System.out.println(lhs);
         lhs.remove(30);
-
         //forEach loop: It is optimized for Collections and Arrays
 		int sum=0;
 		for(Integer x : lhs) {
