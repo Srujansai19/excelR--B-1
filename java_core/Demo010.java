@@ -15,6 +15,7 @@ class Customer{
         System.out.println("ur balance is "+ Balance);
     }
 }
+
 public class Demo010 {    
     public static void main(String[] args){
         Customer obj = new Customer();
