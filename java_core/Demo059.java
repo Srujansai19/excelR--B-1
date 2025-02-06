@@ -2,6 +2,7 @@ public class Demo059 {
     static void isPrime(int x){
         if(x<1) {
             System.out.println("Enter a positive number");
+            
         }
 
         for(int i=2; i<x-1; i++){
