@@ -7,7 +7,7 @@ public class Demo002 {
             int a = sc.nextInt();
             System.out.println("Enter the value of Second number: ");
             int b = sc.nextInt();
-
+            
             if(a>b){ 
                 System.out.println(a+" is greatest");
             }
