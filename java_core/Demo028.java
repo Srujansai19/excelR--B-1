@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Demo028 {
 
-    
     public static int fibonacci(int n) {
         if (n <= 1) {
             return n;
