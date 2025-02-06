@@ -11,6 +11,7 @@ public class Demo003 {
         System.out.println("Enter the value of Third number: ");
         int c = sc.nextInt();
 
+
         if(a>b && a>c){ 
             System.out.println("a is greatest");
         }
