@@ -5,6 +5,7 @@ class Demo024{
         System.out.println("Enter the String:  ");
         String str = sc.nextLine();
         String rev = new StringBuilder(str).reverse().toString();
+        
         System.out.println("entered string is:  "+str);
         System.out.println("Reversed String: "+rev);
 }
