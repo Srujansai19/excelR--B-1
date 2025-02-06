@@ -5,7 +5,6 @@ public class Demo014 {
         System.out.println("Enter the number: ");
         int x = sc.nextInt();
 //unary operators
-        
                 System.out.println("X: "+x);
         
                 System.out.println("Unary Plus: "+(+x));
