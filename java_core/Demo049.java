@@ -1,6 +1,7 @@
 public class Demo049 {
     void reverse(int x){
         int reverse =  0;
+        
 
         while(x!=0){
             int digit = x%10;
