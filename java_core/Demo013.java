@@ -11,7 +11,6 @@ public class Demo013 {
         int h = sc.nextInt();
 
         double area = (0.5*b*h);
-        
         System.out.println("Area of the triangle: " + area);
     }
 }
