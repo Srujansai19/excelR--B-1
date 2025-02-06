@@ -1,3 +1,4 @@
+
 public class Demo056 {
     static void squareSum(int x){
         int sum = 0;
