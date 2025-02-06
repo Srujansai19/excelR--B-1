@@ -13,8 +13,7 @@ class Demo026{
                     } else {
                         consonants++;
                         }
-                        }
-                        
+                        }                        
                         System.out.println("Number of vowels: " + vowels);
                         System.out.println("Number of consonants: " + consonants);
                     }                      
