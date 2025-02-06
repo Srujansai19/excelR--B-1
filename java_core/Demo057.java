@@ -3,6 +3,7 @@ public class Demo057 {
         int last = x%10;
 
         int first=x;
+        
         while(first>=10){
             first /= 10;
         }
