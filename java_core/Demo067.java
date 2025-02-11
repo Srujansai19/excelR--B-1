@@ -8,6 +8,7 @@ class LinearSearch {
         return -1;
     }
 }
+//linear search
 public class Demo067{
     public static void main(String args[])
     {
